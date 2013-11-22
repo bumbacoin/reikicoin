@@ -1,0 +1,9 @@
+Building reikicoin
+
+See doc/readme-qt.rst for instructions on building reikicoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of reikicoin.
+
+See doc/build-*.txt for instructions on building reikicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of reikicoin.
